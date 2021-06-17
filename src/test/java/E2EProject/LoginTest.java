@@ -10,6 +10,8 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
+import com.sun.tools.sjavac.Log;
+
 import pageObjects.ForgotPasswordPage;
 import pageObjects.LandingPage;
 import pageObjects.LoginPage;
@@ -58,7 +60,9 @@ public class LoginTest extends Base{
 		//Click on forgot to password page Link.
 		ForgotPasswordPage fp = login.ForgotPassword();
 		fp.EmailAddress().sendKeys(userName);
+		Log.info("Username is entered");
 		fp.SendMeInstruction().click();
+		Log.info("Send me instruction is clicked");
 		
 	}
 	
