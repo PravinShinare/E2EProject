@@ -70,7 +70,7 @@ public class LoginTest extends Base{
 	public void closeBrowser()
 	{
 		driver.close();
-		log.info("Browser is closed and Test is ended");
+		log.info("Browser is closed and Test Demo is ended");
 	}
 
 	

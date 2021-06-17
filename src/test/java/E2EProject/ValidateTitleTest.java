@@ -26,6 +26,8 @@ public class ValidateTitleTest extends Base{
 		//enter URL in the browser.
 		driver.get(prop.getProperty("url")); 
 		log.info("navigated on Home Page successfully");
+		log.info("Git Demo Changes");
+		log.info("Git Demo Changes");
 	}
 	
 	@Test
