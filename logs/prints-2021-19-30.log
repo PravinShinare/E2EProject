@@ -1,0 +1,14 @@
+02:17:31.915 [main] INFO  resources.Base - navigated on Home Page successfully
+02:17:38.686 [main] INFO  resources.Base - Sign in linked clicked
+02:17:38.767 [main] INFO  resources.Base - Email address is entered successfully
+02:17:38.830 [main] INFO  resources.Base - Password is entered Successfully
+02:17:39.156 [main] INFO  resources.Base - Login Button clicked
+02:17:40.937 [main] INFO  resources.Base - navigated on Home Page successfully
+02:17:46.405 [main] INFO  resources.Base - Sign in linked clicked
+02:17:46.476 [main] INFO  resources.Base - Email address is entered successfully
+02:17:46.530 [main] INFO  resources.Base - Password is entered Successfully
+02:17:46.813 [main] INFO  resources.Base - Login Button clicked
+02:17:47.572 [main] INFO  resources.Base - Browser is closed and Test is ended
+02:19:18.465 [main] INFO  resources.Base - Driver is Initialized
+02:19:32.692 [main] INFO  resources.Base - navigated on Home Page successfully
+02:19:39.478 [main] INFO  resources.Base - Sign in linked clicked

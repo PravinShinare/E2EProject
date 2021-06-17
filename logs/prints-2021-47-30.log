@@ -1,0 +1,12 @@
+12:42:14.041 [TestNG-tests-1] INFO  resources.Base - Email address is entered successfully
+12:42:14.161 [TestNG-tests-1] INFO  resources.Base - Password is entered Successfully
+12:42:14.645 [TestNG-tests-1] INFO  resources.Base - Login Button clicked
+12:42:15.493 [TestNG-tests-1] INFO  resources.Base - Browser is closed and Test is ended
+12:47:23.417 [TestNG-tests-1] INFO  resources.Base - Driver is Initialized
+12:47:23.437 [TestNG-tests-2] INFO  resources.Base - Driver is Initialized
+12:47:23.594 [TestNG-tests-3] INFO  resources.Base - Driver is Initialized
+12:47:34.727 [TestNG-tests-2] INFO  resources.Base - navigated on Home Page successfully
+12:47:34.853 [TestNG-tests-1] INFO  resources.Base - navigated on Home Page successfully
+12:47:34.934 [TestNG-tests-2] INFO  resources.Base - Navigation bar is displayed
+12:47:35.033 [TestNG-tests-3] INFO  resources.Base - navigated on Home Page successfully
+12:47:35.088 [TestNG-tests-3] INFO  resources.Base - Home page title verified successfully

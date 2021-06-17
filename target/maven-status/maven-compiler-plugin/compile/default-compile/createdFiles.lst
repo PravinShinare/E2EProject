@@ -1,0 +1,7 @@
+pageObjects\LandingPage.class
+pageObjects\LoginPage.class
+E2EProject\App.class
+resources\Base.class
+pageObjects\ForgotPasswordPage.class
+pageObjects\SubscriptonPage.class
+resources\ExtentReporterNG.class

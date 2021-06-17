@@ -1,0 +1,14 @@
+02:05:22.245 [main] INFO  resources.Base - Login Button clicked
+02:05:22.324 [main] INFO  resources.Base - Browser is closed and Test is ended
+02:06:04.841 [main] INFO  resources.Base - Driver is Initialized
+02:06:17.091 [main] INFO  resources.Base - navigated on Home Page successfully
+02:06:19.260 [main] INFO  resources.Base - navigated on Home Page successfully
+02:06:20.929 [main] INFO  resources.Base - Sign in linked clicked
+02:06:21.022 [main] INFO  resources.Base - Browser is closed and Test is ended
+02:07:04.411 [main] INFO  resources.Base - Driver is Initialized
+02:07:04.500 [main] INFO  resources.Base - Browser is closed and Test is ended
+02:07:29.185 [main] INFO  resources.Base - Driver is Initialized
+02:07:29.280 [main] INFO  resources.Base - Browser is closed and Test is ended
+02:08:49.821 [main] INFO  resources.Base - Driver is Initialized
+02:09:01.390 [main] INFO  resources.Base - navigated on Home Page successfully
+02:09:02.629 [main] INFO  resources.Base - Browser is closed and Test is ended

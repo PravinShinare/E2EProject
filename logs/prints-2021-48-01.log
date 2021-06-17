@@ -1,0 +1,11 @@
+17:48:42.228 [TestNG-tests-3] INFO  resources.Base - navigated on Home Page successfully
+17:48:42.319 [TestNG-tests-3] INFO  resources.Base - Home page header verified successfully - Achived clubbing multiple test in same class
+17:48:42.402 [TestNG-tests-3] INFO  resources.Base - Home page title verified successfully
+17:48:42.451 [TestNG-tests-3] INFO  resources.Base - Browser is closed and Test is ended
+17:48:42.456 [TestNG-tests-2] INFO  resources.Base - navigated on Home Page successfully
+17:48:42.472 [TestNG-tests-1] INFO  resources.Base - navigated on Home Page successfully
+17:48:42.539 [TestNG-tests-2] INFO  resources.Base - Navigation bar is displayed
+17:48:42.578 [TestNG-tests-2] INFO  resources.Base - Browser is closed and Test is ended
+17:48:44.779 [TestNG-tests-1] INFO  resources.Base - navigated on Home Page successfully
+17:48:46.876 [TestNG-tests-1] INFO  resources.Base - Sign in linked clicked
+17:48:47.003 [TestNG-tests-1] INFO  resources.Base - Email address is entered successfully

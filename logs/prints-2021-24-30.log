@@ -1,0 +1,12 @@
+02:23:48.414 [main] INFO  resources.Base - Browser is closed and Test is ended
+02:24:32.361 [TestNG-tests-3] INFO  resources.Base - Driver is Initialized
+02:24:32.361 [TestNG-tests-2] INFO  resources.Base - Driver is Initialized
+02:24:32.407 [TestNG-tests-1] INFO  resources.Base - Driver is Initialized
+02:24:44.247 [TestNG-tests-1] INFO  resources.Base - navigated on Home Page successfully
+02:24:44.819 [TestNG-tests-2] INFO  resources.Base - navigated on Home Page successfully
+02:24:44.920 [TestNG-tests-2] INFO  resources.Base - Navigation bar is displayed
+02:24:45.052 [TestNG-tests-2] INFO  resources.Base - Browser is closed and Test is ended
+02:24:46.115 [TestNG-tests-3] INFO  resources.Base - navigated on Home Page successfully
+02:24:47.665 [TestNG-tests-3] INFO  resources.Base - Browser is closed and Test is ended
+02:24:48.181 [TestNG-tests-1] INFO  resources.Base - navigated on Home Page successfully
+02:24:49.904 [TestNG-tests-1] INFO  resources.Base - Sign in linked clicked

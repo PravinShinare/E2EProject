@@ -1,0 +1,12 @@
+12:08:24.557 [TestNG-tests-3] INFO  resources.Base - Home page title verified successfully
+12:08:24.760 [TestNG-tests-3] INFO  resources.Base - Browser is closed and Test is ended
+12:08:25.674 [TestNG-tests-2] INFO  resources.Base - navigated on Home Page successfully
+12:08:25.748 [TestNG-tests-2] INFO  resources.Base - Navigation bar is displayed
+12:08:25.805 [TestNG-tests-1] INFO  resources.Base - navigated on Home Page successfully
+12:08:25.858 [TestNG-tests-2] INFO  resources.Base - Browser is closed and Test is ended
+12:08:29.964 [TestNG-tests-1] INFO  resources.Base - Sign in linked clicked
+12:08:30.140 [TestNG-tests-1] INFO  resources.Base - Email address is entered successfully
+12:08:30.288 [TestNG-tests-1] INFO  resources.Base - Password is entered Successfully
+12:08:30.833 [TestNG-tests-1] INFO  resources.Base - Login Button clicked
+12:08:33.223 [TestNG-tests-1] INFO  resources.Base - navigated on Home Page successfully
+12:08:33.713 [TestNG-tests-1] INFO  resources.Base - Sign in linked clicked

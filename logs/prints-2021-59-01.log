@@ -1,0 +1,12 @@
+17:48:47.063 [TestNG-tests-1] INFO  resources.Base - Password is entered Successfully
+17:48:47.450 [TestNG-tests-1] INFO  resources.Base - Login Button clicked
+17:48:48.270 [TestNG-tests-1] INFO  resources.Base - Browser is closed and Test is ended
+22:59:39.160 [TestNG-tests-2] INFO  resources.Base - Driver is Initialized
+22:59:39.160 [TestNG-tests-1] INFO  resources.Base - Driver is Initialized
+22:59:39.160 [TestNG-tests-3] INFO  resources.Base - Driver is Initialized
+22:59:44.837 [TestNG-tests-2] INFO  resources.Base - navigated on Home Page successfully
+22:59:46.072 [TestNG-tests-3] INFO  resources.Base - navigated on Home Page successfully
+22:59:47.140 [TestNG-tests-1] INFO  resources.Base - navigated on Home Page successfully
+22:59:47.286 [TestNG-tests-3] INFO  resources.Base - Home page header verified successfully - Achived clubbing multiple test in same class
+22:59:47.308 [TestNG-tests-2] INFO  resources.Base - Navigation bar is displayed
+22:59:48.976 [TestNG-tests-1] INFO  resources.Base - Sign in linked clicked

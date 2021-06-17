@@ -1,0 +1,13 @@
+17:15:51.407 [TestNG-tests-1] INFO  resources.Base - Browser is closed and Test is ended
+17:19:04.068 [main] INFO  resources.Base - Driver is Initialized
+17:19:24.175 [main] INFO  resources.Base - navigated on Home Page successfully
+17:19:24.313 [main] INFO  resources.Base - Home page title verified successfully
+17:19:24.439 [main] INFO  resources.Base - Browser is closed and Test is ended
+17:28:46.981 [main] INFO  resources.Base - Driver is Initialized
+17:29:05.139 [main] INFO  resources.Base - navigated on Home Page successfully
+17:29:05.273 [main] INFO  resources.Base - Home page title verified successfully
+17:29:05.433 [main] INFO  resources.Base - Browser is closed and Test is ended
+17:36:03.014 [main] INFO  resources.Base - Driver is Initialized
+17:36:20.875 [main] INFO  resources.Base - navigated on Home Page successfully
+17:36:21.009 [main] INFO  resources.Base - Home page header verified successfully - Achived clubbing multiple test in same class
+17:36:21.072 [main] INFO  resources.Base - Home page title verified successfully

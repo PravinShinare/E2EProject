@@ -1,0 +1,14 @@
+01:59:22.029 [main] INFO  resources.Base - Driver is Initialized
+01:59:34.151 [main] INFO  resources.Base - navigated on Home Page successfully
+01:59:36.352 [main] INFO  resources.Base - navigated on Home Page successfully
+01:59:38.148 [main] INFO  resources.Base - Sign in linked clicked
+01:59:38.209 [main] INFO  resources.Base - Email address is entered successfully
+01:59:38.260 [main] INFO  resources.Base - Password is entered Successfully
+01:59:38.544 [main] INFO  resources.Base - Login Button clicked
+01:59:38.618 [main] INFO  resources.Base - Browser is closed and Test is ended
+02:05:05.913 [main] INFO  resources.Base - Driver is Initialized
+02:05:17.857 [main] INFO  resources.Base - navigated on Home Page successfully
+02:05:20.013 [main] INFO  resources.Base - navigated on Home Page successfully
+02:05:21.741 [main] INFO  resources.Base - Sign in linked clicked
+02:05:21.807 [main] INFO  resources.Base - Email address is entered successfully
+02:05:21.856 [main] INFO  resources.Base - Password is entered Successfully
